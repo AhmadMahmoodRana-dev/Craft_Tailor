@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cut & Craft Tailor Management",
+  "description": "A high-end bespoke tailoring application for managing customer profiles, garment design selection, custom measurement tracking with variation logic, and logistics from branch to stitching hub.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
